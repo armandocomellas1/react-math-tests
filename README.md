@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# Math magicians: full website
+# Math magicians: full website and testing with Jest and React Library interaction
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -16,6 +16,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - API's
 - ECMA6
 - Hooks
+- Jest of React
+- @testing-library/react
 - The header have 3 pages, Home, Calulator and Quote.
 
 ## Getting Started with Create React App
