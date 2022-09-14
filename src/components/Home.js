@@ -33,4 +33,12 @@ const Home = () => {
   );
 };
 
-export default Home;
+const HomeTest = ({ title }) => {
+  return (
+    <div className="home_container">
+      <h2>{ title }</h2>
+    </div>
+  );
+};
+
+export { Home, HomeTest };
