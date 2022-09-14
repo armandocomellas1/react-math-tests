@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+}
+
+.quote_container {
+  width: 100%;
+  height: 100%;
+  padding: 0 5%;
+  display: flex;
+}
+
+.quote_container h2 {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: lighter;
+}

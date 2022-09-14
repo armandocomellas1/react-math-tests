@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+}
+
+.calc_container {
+  width: 100%;
+  height: 100%;
+  padding: 0 5%;
+  display: flex;
+}
+
+.calc_container h2 {
+  margin: 5% 0;
+  width: 45%;
+  font-weight: lighter;
+  font-size: 1.3rem;
+}
