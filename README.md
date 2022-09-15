@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# Math magicians: full website
+# Math magicians: full website (Using netlify)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -29,7 +29,7 @@ If you want to clone this project:
 ## Live demo video
 
 - The project is complete so the live demo is:
-  [live server](https://armandocomellas1.github.io/react-math-app/)
+  [live server](https://lovely-dango-2dcbbd.netlify.app/)
 
 ### Prerequisites
 - Code editor
