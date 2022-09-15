@@ -66,6 +66,12 @@ If you want to clone this project:
 - Twitter: [@armando_comellas](https://twitter.com/armando_comellas)
 - LinkedIn: [@armandoComellasd](https://www.linkedin.com/in/armando-comellas-mayo-a8a8b8b6/)
 
+👤 **@lucabenaventew**
+
+- GitHub: [@lucabenaventew](https://github.com/lucabenaventew)
+- Twitter: [@BenaventeLuca](https://twitter.com/BenaventeLuca)
+- LinkedIn: [lucabenaventew](https://linkedin.com/in/lucabenaventew/)
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
