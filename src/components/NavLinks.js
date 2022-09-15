@@ -19,4 +19,17 @@ const Navegation = () => {
   );
 };
 
-export default Navegation;
+const NavLind = ({ paths }) => {
+  return (
+    <div className="container" style={styleMenu}>
+      <h1>Math Magicians</h1>
+      <nav>
+        <NavLink to="/">Home</NavLink>
+        <NavLink to={paths}>Calculator</NavLink>
+        <NavLink to="/Quote">Quote</NavLink>
+      </nav>
+    </div>
+  );
+};
+
+export { Navegation, NavLind };

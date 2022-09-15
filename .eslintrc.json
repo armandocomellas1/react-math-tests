@@ -24,6 +24,7 @@
     "no-unused-vars": 0,
     "arrow-body-style": "off",
     "max-len": "off",
+    "react/prop-types": 0,
     "no-shadow": "off"
   },
   "ignorePatterns": [

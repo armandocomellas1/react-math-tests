@@ -19,4 +19,17 @@ const Quote = () => {
   );
 };
 
-export default Quote;
+const QuoteTest = () => {
+  return (
+    <div className="quote_container" style={styleQuote}>
+      <h2>
+        Mathematics is not about numbers, equations, computations, or
+        algorithms: it is about understanding.
+        <br />
+        -William Paul Thurston
+      </h2>
+    </div>
+  );
+};
+
+export { Quote, QuoteTest };

@@ -7,9 +7,9 @@ import {
 import styleCalc from './App.css';
 import Calc from './components/Calculator';
 import styleCalFrame from './components/Calc.css';
-import NavLinks from './components/NavLinks';
-import Home from './components/Home';
-import Quote from './components/Quote';
+import { Navegation } from './components/NavLinks';
+import { Home } from './components/Home';
+import { Quote } from './components/Quote';
 
 const Calculator = () => {
   return (
@@ -25,7 +25,7 @@ const Calculator = () => {
 function App() {
   return (
     <BrowserRouter>
-      <NavLinks />
+      <Navegation />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/calculator" element={<Calculator />} />
