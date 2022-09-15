@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# Math magicians: full website
+# Math magicians: full website (Deploying with netlify)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -26,10 +26,10 @@ If you want to clone this project:
 - Copy the SSH link
 - On your local machine, type the command git clone and paste the SSH link
 
-## Live demo video
+## Live demo video (Netlify deployment)
 
 - The project is complete so the live demo is:
-  [live server](https://armandocomellas1.github.io/react-math-app/)
+  [live server](https://lovely-dango-2dcbbd.netlify.app/)
 
 ### Prerequisites
 - Code editor
